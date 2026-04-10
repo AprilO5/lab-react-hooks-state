@@ -12,6 +12,7 @@
     "@emotion/react": "^11.0.0",
     "@emotion/styled": "^11.0.0",
     "@mui/material": "^5.0.0",
+    "@vitest/ui": "^4.1.4",
     "happy-dom": "^20.8.9",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
