@@ -5,15 +5,17 @@
   "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
-    "test": "jest",
+    "test": "vitest run",
     "build": "vite build"
   },
   "dependencies": {
     "@emotion/react": "^11.0.0",
     "@emotion/styled": "^11.0.0",
     "@mui/material": "^5.0.0",
+    "happy-dom": "^20.8.9",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "vitest": "^4.1.4"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.27.2",
